@@ -1,11 +1,11 @@
-Name of the project:
+# Name of the project:
 
 	Spotify Clone
 
-Abstract:
+# Abstract:
 This website is designed to play music, similar to Spotify. It allows users to play songs based on their preferences. It also includes login and logout pages; to access the website, you must first log in, and you can log out to end your session.
 
-Main Working Files:
+# Main Working Files:
  Index.html: 
            This HTML code generates the user interface for a music player that resembles Spotify, with song navigation, a song list with playback controls, and a navigation bar. It has Font Awesome for icons, uses external CSS for style, and has JavaScript links for interactive features.
 
